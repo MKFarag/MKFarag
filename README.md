@@ -1,6 +1,13 @@
 <h2 align="left">
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Mohamed Khaled Farag, .Net Backend Developer :computer:<br>
+  <br>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
+  </picture>
+  <br>
 </h2> 
 
 <h2 align="left">Languages & Frameworks:</h2>
@@ -66,12 +73,6 @@
 <h2 align="left">Education:</h2>
 
 - Bachelor of Computer Science — Zagazig University (GPA: 3.52)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
-</picture>
 
 <h2 align="left">Connect with me:</h2>
 
