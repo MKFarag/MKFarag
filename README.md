@@ -67,6 +67,12 @@
 
 - Bachelor of Computer Science — Zagazig University (GPA: 3.52)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MKFarag/MKFarag/output/pacman-contribution-graph.svg">
+</picture>
+
 <h2 align="left">Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/mk-farag/" target="_blank">
