@@ -12,14 +12,41 @@
 - Interested in system design and backend scalability  
 
 <h2 align="left">Languages & Frameworks:</h2>
-<p align="left">
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a><a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/></a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://dotnet.microsoft.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Familier with:</h2>
-<p align="left">
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">Education:</h2>
 
